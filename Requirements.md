@@ -1,3 +1,4 @@
+# Functional
 Guest Management
     - Hotel Reservation
         - The hotel to book
@@ -10,4 +11,5 @@ Guest Management
         - Family Member Adding
         - User Account Delete
         - Payment Process
-        - Poins Aviable 
+        - Points Aviable 
+# Non-Functional
