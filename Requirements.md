@@ -8,7 +8,6 @@
 
 ### Book
 - Hotel Reservation
-- The hotel to book
 - The Room type to select
 - Checking in/out Time 
 - The aviable room type to select (Providing the Actual room view)
@@ -25,12 +24,21 @@
 - Payment Process
 - Points Aviable 
 
-## Hotel User Interface
+## Hotel Manager Interface
+### Book
+- Guest Order information Checking 
+- Aviable Room for new coming non-online Guest
+- Food Reservation Checking Situation
+- Room Clear Service Checking Situation
+- Ride Booking Situation
+- Fitness Service Booking Situation
+- Conference Room Booking Situation
 
-
+### Book Checking
+- Family Member Adding to an existing order
+- Payment Return Process
 
 # Non-Functional
 - Security: Keep guests personal information secure (Credit Cards, Room #, etc…). Only certain departments should have access to certain information.
 - Usability: Should be able to be used by both mobile and non-mobile devices. Not every staffed position has access to a desk. All specific department information must be accessible
 - Reliability: The system cohesive and functional with minimal issues on the user end.
-
