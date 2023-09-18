@@ -2,7 +2,9 @@
 ## User Interface
 ### Home
 - Location to go
-- Points Checking
+- Electroinc Room Card: The Room aviable for the to get in without room card
+- Guest Wifi Password: When the User have the promssion to use the hotel service, the password will pop up in the app main page
+- Points
 
 ### Book
 - Hotel Reservation
@@ -22,6 +24,10 @@
 - User Account Delete
 - Payment Process
 - Points Aviable 
+
+## Hotel User Interface
+
+
 
 # Non-Functional
 - Security: Keep guests personal information secure (Credit Cards, Room #, etc…). Only certain departments should have access to certain information.
